@@ -1,4 +1,4 @@
-# Employee Leave Planner
+# Employee Leave Tracker
 
 A modern web application for tracking and managing employee leave requests with an interactive calendar view.
 
